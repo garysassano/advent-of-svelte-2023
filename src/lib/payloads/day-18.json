@@ -1,0 +1,182 @@
+[
+	{
+		"question": "In 'Home Alone,' where are the McCallisters going on vacation when they leave Kevin behind?",
+		"answers": [
+			{ "text": "Paris", "correct": true },
+			{ "text": "London", "correct": false },
+			{ "text": "New York", "correct": false },
+			{ "text": "Miami", "correct": false }
+		]
+	},
+	{
+		"question": "Which real-life person is Santa Claus based on?",
+		"answers": [
+			{ "text": "Saint Nicholas", "correct": true },
+			{ "text": "Saint Benedict", "correct": false },
+			{ "text": "Pope Gregory", "correct": false },
+			{ "text": "King Wenceslas", "correct": false }
+		]
+	},
+	{
+		"question": "What two phrases will you almost always find on Christmas gift tags?",
+		"answers": [
+			{ "text": "To and From", "correct": true },
+			{ "text": "Merry and Bright", "correct": false },
+			{ "text": "Love and Joy", "correct": false },
+			{ "text": "Season's Greetings", "correct": false }
+		]
+	},
+	{
+		"question": "What is traditionally left out for Santa Claus on Christmas Eve?",
+		"answers": [
+			{ "text": "Cookies and Milk", "correct": true },
+			{ "text": "Pizza and Soda", "correct": false },
+			{ "text": "Bread and Butter", "correct": false },
+			{ "text": "Fish and Chips", "correct": false }
+		]
+	},
+	{
+		"question": "Which popular Christmas song was actually written for Easter?",
+		"answers": [
+			{ "text": "Hallelujah", "correct": true },
+			{ "text": "O Holy Night", "correct": false },
+			{ "text": "Silent Night", "correct": false },
+			{ "text": "Joy to the World", "correct": false }
+		]
+	},
+	{
+		"question": "Which country started the tradition of putting up a Christmas tree?",
+		"answers": [
+			{ "text": "Germany", "correct": true },
+			{ "text": "United States", "correct": false },
+			{ "text": "England", "correct": false },
+			{ "text": "France", "correct": false }
+		]
+	},
+	{
+		"question": "What were the first artificial Christmas trees made from?",
+		"answers": [
+			{ "text": "Goose feathers", "correct": true },
+			{ "text": "Plastic", "correct": false },
+			{ "text": "Wood", "correct": false },
+			{ "text": "Metal", "correct": false }
+		]
+	},
+	{
+		"question": "What popular Christmas beverage is also known as 'milk punch'?",
+		"answers": [
+			{ "text": "Eggnog", "correct": true },
+			{ "text": "Hot Chocolate", "correct": false },
+			{ "text": "Mulled Wine", "correct": false },
+			{ "text": "Apple Cider", "correct": false }
+		]
+	},
+	{
+		"question": "What is the name of the red-nosed reindeer?",
+		"answers": [
+			{ "text": "Rudolph", "correct": true },
+			{ "text": "Blitzen", "correct": false },
+			{ "text": "Dasher", "correct": false },
+			{ "text": "Donner", "correct": false }
+		]
+	},
+	{
+		"question": "Which Christmas carol was the first song ever broadcast from space in 1965?",
+		"answers": [
+			{ "text": "Jingle Bells", "correct": true },
+			{ "text": "Silent Night", "correct": false },
+			{ "text": "White Christmas", "correct": false },
+			{ "text": "O Holy Night", "correct": false }
+		]
+	},
+	{
+		"question": "Who is the author of the classic book 'How the Grinch Stole Christmas'?",
+		"answers": [
+			{ "text": "Dr. Seuss", "correct": true },
+			{ "text": "Roald Dahl", "correct": false },
+			{ "text": "J.K. Rowling", "correct": false },
+			{ "text": "C.S. Lewis", "correct": false }
+		]
+	},
+	{
+		"question": "In what modern-day country was St. Nicholas born?",
+		"answers": [
+			{ "text": "Turkey", "correct": true },
+			{ "text": "Germany", "correct": false },
+			{ "text": "Norway", "correct": false },
+			{ "text": "Russia", "correct": false }
+		]
+	},
+	{
+		"question": "Which country is credited with the creation of the Christmas beverage, Eggnog?",
+		"answers": [
+			{ "text": "England", "correct": true },
+			{ "text": "Germany", "correct": false },
+			{ "text": "United States", "correct": false },
+			{ "text": "Canada", "correct": false }
+		]
+	},
+	{
+		"question": "What color suit did Santa Claus originally wear before red became popular?",
+		"answers": [
+			{ "text": "Green", "correct": true },
+			{ "text": "Blue", "correct": false },
+			{ "text": "White", "correct": false },
+			{ "text": "Brown", "correct": false }
+		]
+	},
+	{
+		"question": "In Charles Dickens' 'A Christmas Carol,' who was Scrooge's deceased business partner?",
+		"answers": [
+			{ "text": "Jacob Marley", "correct": true },
+			{ "text": "Bob Cratchit", "correct": false },
+			{ "text": "Tiny Tim", "correct": false },
+			{ "text": "Fezziwig", "correct": false }
+		]
+	},
+	{
+		"question": "Which plant is known as the 'Christmas Flower'?",
+		"answers": [
+			{ "text": "Poinsettia", "correct": true },
+			{ "text": "Holly", "correct": false },
+			{ "text": "Mistletoe", "correct": false },
+			{ "text": "Ivy", "correct": false }
+		]
+	},
+	{
+		"question": "In the 12 days of Christmas, what is given on the 7th day?",
+		"answers": [
+			{ "text": "Swans a-swimming", "correct": true },
+			{ "text": "Geese a-laying", "correct": false },
+			{ "text": "Golden rings", "correct": false },
+			{ "text": "Lords a-leaping", "correct": false }
+		]
+	},
+	{
+		"question": "What animated 2004 film is about a train that carries kids to the North Pole on Christmas Eve?",
+		"answers": [
+			{ "text": "The Polar Express", "correct": true },
+			{ "text": "Frozen", "correct": false },
+			{ "text": "Elf", "correct": false },
+			{ "text": "Arthur Christmas", "correct": false }
+		]
+	},
+	{
+		"question": "Which Christmas carol includes the lyrics 'Joyful, all ye nations rise, Join the triumph of the skies'?",
+		"answers": [
+			{ "text": "Hark! The Herald Angels Sing", "correct": true },
+			{ "text": "O Holy Night", "correct": false },
+			{ "text": "Silent Night", "correct": false },
+			{ "text": "Away in a Manger", "correct": false }
+		]
+	},
+	{
+		"question": "What is the traditional Christmas meal in Japan?",
+		"answers": [
+			{ "text": "KFC (Kentucky Fried Chicken)", "correct": true },
+			{ "text": "Sushi", "correct": false },
+			{ "text": "Tempura", "correct": false },
+			{ "text": "Ramen", "correct": false }
+		]
+	}
+]

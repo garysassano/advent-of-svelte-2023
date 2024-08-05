@@ -1,0 +1,9 @@
+:root {
+	--xmas-red: #c41e3a;
+	--xmas-green: #00873e;
+}
+
+body {
+	font-family: 'Roboto Flex Variable', Arial, sans-serif;
+	background-color: #001f3f;
+}
